@@ -12,6 +12,5 @@
 
 <div>
   <a href="https://github.com/EugenioNhampossa/">
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=EugenioNhampossa&show_icons=true&theme=dracula&hide=contribs,issues">
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EugenioNhampossa&layout=compact&theme=dracula">
+  
 </div>
