@@ -7,7 +7,7 @@ I´m an aspiring Full Stack Web Developer and current Engineering student with a
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,react,redux,nodejs,express,prisma,postgres,mysql,nestjs,linux,vite" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,react,vite,nodejs,express,prisma,postgres,nestjs,linux" />
   </a>
 </p>
 <h3 align="left">GuitHub Stats:</h3>
